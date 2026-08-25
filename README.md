@@ -4,11 +4,8 @@
 
 
 **Nome:** Antonio Lucas Sampaio Cunha 
-
 **Turma:** 2º Ano TEC — Desenvolvimento de Sistemas  
-
 **Instituição:** SENAI  
-
 **Ano:** 2026
 
 ## Sobre o projeto
@@ -32,7 +29,7 @@ Após as alterações, o projeto foi publicado no GitHub e disponibilizado por m
 - GitHub
 - GitHub Pages
 
-## Instalação e USo
+## Instalação e Uso
 
 Para começar a jogar, basta apenas fazer o download do arquivo do game disponibilizado neste repositório, abrir usando um navegador web e iniciar!
 
