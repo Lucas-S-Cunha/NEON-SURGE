@@ -3,10 +3,10 @@
 ## Desenvolvedor
 
 
-**Nome:** Antonio Lucas Sampaio Cunha
-**Turma:** 2º Ano TEC — Desenvolvimento de Sistemas
-**Instituição:** SENAI
-**Ano:** 2026
+**Nome:** Antonio Lucas Sampaio Cunha  
+**Turma:** 2º Ano TEC — Desenvolvimento de Sistemas  
+**Instituição:** SENAI  
+**Ano:** 2026  
 
 ## Sobre o projeto
 
