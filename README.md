@@ -43,15 +43,12 @@ Para começar a jogar, basta apenas fazer o download do arquivo do game disponib
 
 | Ação    | Controle |
 |---|---  |
-
 | Mover   | W, A, S, D ou setas |
-|---|---  |
 | Mirar   | Mouse |
-|---|---  |
 | Impulso | Espaço |
-|---|---  |
 | Pausar  | P |
-|---|---  |
+
+
 #### Celular
 
 O jogo também possui suporte a toque na tela para movimentação.
