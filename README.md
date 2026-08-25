@@ -1,4 +1,4 @@
-# **Neon Surge - Jogo de navegador no estilo Shoot 'Em Up no espaço.**
+# **Neon Surge - Jogo de navegador no estilo Shoot 'Em Up no espaço**
 
 ## Desenvolvedor
 
